@@ -21,3 +21,4 @@ print(s)
 x['sucsess'] = np.where(x['score'] > 10.0, 1, 0)
 
 print(x)
+
